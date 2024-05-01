@@ -3,9 +3,6 @@
 #include<conio.h>
 using namespace std;
 
-bool setapple(char **field){
-	
-}
 struct snakePart{
 	int x,y;
 	snakePart* next;
